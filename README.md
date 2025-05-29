@@ -1,4 +1,4 @@
-# Snake-Game-engine
+# Snake Game
 # (Python + Pygame)
 
 A classic Snake game built using Python and the Pygame library. This simple engine provides snake movement, food generation, collision detection, and score tracking.
