@@ -23,7 +23,7 @@ A classic Snake game built using Python and the Pygame library. This simple engi
 - Pygame
 
 ## How to run
-python snake_game.py
+- python snake_game.py
 
 Install dependencies:
 ```bash
